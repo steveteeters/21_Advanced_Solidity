@@ -30,7 +30,7 @@
 #### 3. Copy code
 #### 4. Open a new instance of Remix
 #### 5. Paste copied code into Remix and compile
-#### 6. Repeat steps 1-5 for the *KasesiCoinCrowdsale.sol*
+#### 6. Repeat steps 1-5 for the *KaseiCoinCrowdsale.sol*
 #### 7. Deploy and run contracts
 
 ---
