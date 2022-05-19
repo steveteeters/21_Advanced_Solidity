@@ -25,29 +25,29 @@
 
 ## Note
 ### **For deploying contracts use the following steps:**
-####1. Open *Instructions* Folder
-####2. Open *KaseiCoin.sol* File
-####3. Copy code
-####4. Open a new instance of Remix
-####5. Paste copied code into Remix and compile
-####6. Repeat steps 1-5 for the *KasesiCoinCrowdsale.sol*
-####7. Deploy and run contracts
+#### 1. Open *Instructions* Folder
+#### 2. Open *KaseiCoin.sol* File
+#### 3. Copy code
+#### 4. Open a new instance of Remix
+#### 5. Paste copied code into Remix and compile
+#### 6. Repeat steps 1-5 for the *KasesiCoinCrowdsale.sol*
+#### 7. Deploy and run contracts
 
 ---
-##Compiling KaseiCoin Code
+## Compiling KaseiCoin Code
 ![KaseiCoin Compiled](https://user-images.githubusercontent.com/95944553/169193388-16347a6d-7a9d-45ff-9254-e3c0527fa6e1.png)
 ---
-##Compiling KasiCoin Crowsale Code
+## Compiling KasiCoin Crowsale Code
 ![KaseiCoinCrowdsale Compiled](https://user-images.githubusercontent.com/95944553/169193459-86f2cea7-9d40-4c56-876a-b36c284b21a8.png)
 ---
-##Compiling KaseiCoin Deployer Code
+## Compiling KaseiCoin Deployer Code
 ![KaseiCoin Deployer Compiled](https://user-images.githubusercontent.com/95944553/169193478-25ade10d-9342-4fc7-88b0-b4336c771b3f.png)
 ---
-##Deploy using MetaMask, Ganache, and Remix
+## Deploy using MetaMask, Ganache, and Remix
 ![Remix_MetaMask_Ganache_Interaction](https://user-images.githubusercontent.com/95944553/169193557-f0e1f29a-406f-4dd3-a606-d112671fa12b.png)
 ---
-##KaseiCoin Contract Deployed
+## KaseiCoin Contract Deployed
 ![KaseiCoin_Contract_Deployed](https://user-images.githubusercontent.com/95944553/169193494-69670e9f-7660-43f8-8e22-42ecc6e9a556.png)
 ---
-##KaseiCoin Crowdsale and Deployer Contracts Deployed
+## KaseiCoin Crowdsale and Deployer Contracts Deployed
 ![Crowdsale_And_Deployer_Contracts_deployed](https://user-images.githubusercontent.com/95944553/169193623-05050fc7-7404-42e7-a78a-4509ef4d0ccd.png)
