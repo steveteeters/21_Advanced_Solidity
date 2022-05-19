@@ -11,13 +11,13 @@
 ---
 
 ## To Do
-- ### [] Create the KaseiCoin Token Contract
+- ### [X] Create the KaseiCoin Token Contract
 
-- ### [] Create the KaseiCoin Crowdsale Contract
+- ### [X] Create the KaseiCoin Crowdsale Contract
 
-- ### [] Create the KaseiCoin Deployer Contract
+- ### [X] Create the KaseiCoin Deployer Contract
 
-- ### [] Deploy and Test the Crowdsale on a Local Blockchain
+- ### [X] Deploy and Test the Crowdsale on a Local Blockchain
 
 - ### [] Optional: Extend the Crowdsale Contract by Using OpenZeppelin
 
